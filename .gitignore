@@ -1,0 +1,15 @@
+# Environment variables / secrets
+.env
+
+# Virtual environment
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# SQLite database
+*.db
+
+# User uploaded files
+uploads/
